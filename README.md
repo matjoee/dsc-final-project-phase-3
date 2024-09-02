@@ -44,3 +44,8 @@ The following were the top 10 most influential features based on Logistic Regres
 The following were the top 10 most influential features based on Decision Tree Model: [13  0  8 14 21 15 12 16 17 28] We are therefore 73% confident that our model will effectively predict the vaccination outcome given the features
 
 By leveraging Logistic Regression for feature selection and using Random Forest for the final predictive modeling, I have developed a streamlined and focused model that is based on the most relevant features. The evaluation of the Random Forest model indicates how effectively these features contribute to accurate predictions. This approach balances both feature selection with model evaluation, ensuring that the final model is both efficient and effective.
+
+### To All Our Stakeholders
+-- Using the features provided by our models, new policies can be made, resources allocated, and plans made to drive vaccination sbased on them.
+-- Stakeholders are now able to use the features to ome up with incentives on the groups that are less likely to be vaccinated thus curbing the spread of the virus.
+-- Public health departments can now use this features to their advantage in developing target interventions in specific populations whereby the feature depicts that they are lesss likely to get the vaccine
