@@ -6,7 +6,7 @@ The primary business problem is to predict the likelihood that individuals will 
 
 ### **Important Features used**
 - This was based on the important features selected by our best performing model **Decision Trees Model**
-<img src="C:\Users\admin\Documents\Flatiron\Phase-3\final-project-phase-3\dsc-final-project-phase-3\.gitignore\featuresbasedonDecisiontree.png" alt="Example Image" width="300" height="200">
+![Important Features]("C:\Users\admin\Documents\Flatiron\Phase-3\final-project-phase-3\dsc-final-project-phase-3\.gitignore\featuresbasedonDecisiontree.png")
 
 
 ### *Specific Questions to Address*
