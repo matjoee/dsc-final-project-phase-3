@@ -36,10 +36,10 @@ The expected outcome is a **predictive model** that helps in identifying the lik
 ## **Methods used to clean data**
 - **Imputer**
 - **One Hot Encoding**
+- **Log Transformation to handle skewness**
 
 ## **Models used to train our features**
 - **Logistic Regression**
-- **Random Classifier**
 - **Decision Trees Classifiers**
 
 ## **Evaluation**
@@ -52,6 +52,6 @@ By leveraging Logistic Regression for feature selection and using Random Forest 
 
 ## **Recommendations**
 ### To All Our Stakeholders
--- Using the features provided by our models, new policies can be made, resources allocated, and plans made to drive vaccination sbased on them.
--- Stakeholders are now able to use the features to ome up with incentives on the groups that are less likely to be vaccinated thus curbing the spread of the virus.
+-- Using the features provided by our models, new policies can be made, resources allocated, and plans made to drive vaccination based on them.
+-- Stakeholders are now able to use the features to come up with incentives for the groups that are less likely to be vaccinated thus curbing the spread of the virus.
 -- Public health departments can now use this features to their advantage in developing target interventions in specific populations whereby the feature depicts that they are lesss likely to get the vaccine
