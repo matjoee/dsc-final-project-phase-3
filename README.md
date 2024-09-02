@@ -1,8 +1,13 @@
 ### **Business Understanding**
 
 
-### *Business Problem*
+### **Business Problem**
 The primary business problem is to predict the likelihood that individuals will receive the seasonal flu vaccines in the **United States** based on their backgounds, opinions, and health-related behaviors. By understanding the factors that influence vaccine uptake, we can help the public health organizations and healthcare providers to design more effective vaccination campaigns and help policy makers allocate resources more efficiently. This will ultimately improve vaccination rates thus reducing the spread of these viruses.
+
+### **Important Features used**
+- This was based on the important features selected by our best performing model **Decision Trees Model**
+<img src=""C:\Users\admin\Documents\Flatiron\dsc-final-project-phase-3-copy\project images phase-3\featuresbasedonDecisiontree.png"" alt="Example Image" width="300" height="200">
+
 
 ### *Specific Questions to Address*
 1. *Which factors most influence the decision to get vaccinated?*
@@ -37,14 +42,15 @@ The expected outcome is a **predictive model** that helps in identifying the lik
 - **Random Classifier**
 - **Decision Trees Classifiers**
 
+## **Evaluation**
+- **ROC Curve**
+- **Confusion Matrix**
+
 ## **Conclusion**
-
-The following were the top 10 most influential features based on Logistic Regression Model: [14 21 13  8 20 15 11 19 12 27] We are therefore 77% confident that our model will effectively predict the vaccination outcome given the features
-
-The following were the top 10 most influential features based on Decision Tree Model: [13  0  8 14 21 15 12 16 17 28] We are therefore 73% confident that our model will effectively predict the vaccination outcome given the features
 
 By leveraging Logistic Regression for feature selection and using Random Forest for the final predictive modeling, I have developed a streamlined and focused model that is based on the most relevant features. The evaluation of the Random Forest model indicates how effectively these features contribute to accurate predictions. This approach balances both feature selection with model evaluation, ensuring that the final model is both efficient and effective.
 
+## **Recommendations**
 ### To All Our Stakeholders
 -- Using the features provided by our models, new policies can be made, resources allocated, and plans made to drive vaccination sbased on them.
 -- Stakeholders are now able to use the features to ome up with incentives on the groups that are less likely to be vaccinated thus curbing the spread of the virus.
